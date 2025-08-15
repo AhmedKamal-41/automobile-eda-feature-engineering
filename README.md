@@ -15,6 +15,8 @@
 
 <em>Built with the tools and technologies:</em>
 
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
 
 </div>
 <br>
